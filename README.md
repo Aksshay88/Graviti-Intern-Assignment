@@ -1,3 +1,6 @@
+<div align="Left">
+  <img src="Graviti Logo.png" alt="Graviti Logo" width="200">
+</div>
 <div align="center">
   <h1>Map Route Google</h1>
   <img src="https://img.shields.io/badge/Google Maps-%234285F4.svg?style=for-the-badge&logo=google-maps&logoColor=white" width="300">
