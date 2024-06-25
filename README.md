@@ -1,12 +1,10 @@
-<<<<<<< HEAD
+
 # Graviti_Intern_Assignment
-=======
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Working :
 
-Currently, two official plugins are available:
+![image](https://github.com/Aksshay88/Graviti-Intern-Assignment/assets/119944779/5bd7643f-6450-4e28-8863-194fb41b5872)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> 8664f5f (👻 Google_Route_Map_added)
+![image](https://github.com/Aksshay88/Graviti-Intern-Assignment/assets/119944779/1225bb9c-c861-46ee-b070-8d18ffddacfb)
+
+![image](https://github.com/Aksshay88/Graviti-Intern-Assignment/assets/119944779/6234d469-eddd-4361-9aa4-3a47ae8d6e8e)
